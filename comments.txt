@@ -1,0 +1,5 @@
+Things I noticed: 
+Increasig the temperature leads to confusion among the chatbots hallutination and errors
+Chatbots are flexible with misspelling words.
+Although expressly been told no to accept more goats orders than actual number of goats, it keep accepting them
+It do not tell prices accurately
